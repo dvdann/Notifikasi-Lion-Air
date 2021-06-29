@@ -32,5 +32,3 @@ client.subscribe("my/LionAIR/Notifikasi")
 
 # Blocking call that processes network traffic, dispatches callbacks and handles reconnecting.
 client.loop_forever()
-
-
